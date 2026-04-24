@@ -43,11 +43,7 @@
 - **Ask Me About:** AI/LLM engineering, agentic AI solutions, production AI workflows </br> 
 - **Education:** 8TH Semester  CS student at COMSATS University  Islamabad ,Abbottabad Campus   </br> 
 - **Location:** Abbottabad, Pakistan  
-  
----
-## 🛠️ Tech Stack & Skills
 
-<div align="center">
 
 ### 💻 Programming Languages (horizontal)
 
