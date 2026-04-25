@@ -46,7 +46,10 @@ developer = {
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Tools & Libraries
 ![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -74,6 +77,51 @@ developer = {
 | 🔢 **Calculator** | Scientific mode, history, themes, clipboard | `tkinter` |
 | ✂️ **Rock Paper Scissors** | Clean CLI game with replay | `python` |
 
+---
+
+<!-- ══════════════ GITHUB STATS ══════════════ -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DawoodRiyazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=12" width="48%" />
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DawoodRiyazi&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&border_radius=12" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodRiyazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&border_radius=12" width="40%" />
+
+</div>
+
+---
+
+<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/DawoodRiyazi/DawoodRiyazi/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<!-- ══════════════ QUOTE ══════════════ -->
+## 💬 Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- ══════════════ FOOTER ══════════════ -->
+<div align="center">
+
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn)](https://github.com/DawoodRiyazi)
 
 **Made with ❤️ by Dawood Riyazi**
 
