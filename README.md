@@ -74,51 +74,6 @@ developer = {
 | 🔢 **Calculator** | Scientific mode, history, themes, clipboard | `tkinter` |
 | ✂️ **Rock Paper Scissors** | Clean CLI game with replay | `python` |
 
----
-
-<!-- ══════════════ GITHUB STATS ══════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DawoodRiyazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=12" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DawoodRiyazi&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&border_radius=12" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodRiyazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&border_radius=12" width="40%" />
-
-</div>
-
----
-
-<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/DawoodRiyazi/DawoodRiyazi/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<!-- ══════════════ QUOTE ══════════════ -->
-## 💬 Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-<!-- ══════════════ FOOTER ══════════════ -->
-<div align="center">
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn)](https://github.com/DawoodRiyazi)
 
 **Made with ❤️ by Dawood Riyazi**
 
