@@ -78,35 +78,6 @@ developer = {
 | ✂️ **Rock Paper Scissors** | Clean CLI game with replay | `python` |
   https://github.com/dawoodriy-hub/Simple-Python-Games  
 
----
-
-<!-- ══════════════ GITHUB STATS ══════════════ -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DawoodRiyazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_radius=12" width="48%" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DawoodRiyazi&theme=tokyonight&hide_border=true&background=0d0d0d&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&border_radius=12" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DawoodRiyazi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00d4ff&text_color=ffffff&border_radius=12" width="40%" />
-
-</div>
-
----
-
-<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/DawoodRiyazi/DawoodRiyazi/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 <!-- ══════════════ QUOTE ══════════════ -->
 ## 💬 Quote of the Day
@@ -129,3 +100,7 @@ developer = {
 *"Every line of code is a step forward 🚀"*
 
 </div>
+
+**BYYE!!!!!!👋👋👋👋👋😎**
+**Have a Nice Day**
+**Don't forget to follow me!!**
