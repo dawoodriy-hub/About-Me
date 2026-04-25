@@ -76,6 +76,7 @@ developer = {
 | 🧠 **Quiz Game** | 3 modes, 60 questions, 15s countdown timer, sound FX | `python` `termcolor` |
 | 🔢 **Calculator** | Scientific mode, history, themes, clipboard | `tkinter` |
 | ✂️ **Rock Paper Scissors** | Clean CLI game with replay | `python` |
+  https://github.com/dawoodriy-hub/Simple-Python-Games  
 
 ---
 
