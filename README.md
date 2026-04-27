@@ -11,7 +11,7 @@
 <!-- ══════════════ PROFILE VIEWS + FOLLOWERS ══════════════ -->
 ![Profile Views](https://komarev.com/ghpvc/?username=DawoodRiyazi&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
-[![GitHub followers]([[[https://img.shields.io/github/followers/DawoodRiyazi?style=for-the-badge&color=00d4ff&labelColor=0d0d0d&label=FOLLOWERS](https://github.com/dawoodriy-hub?tab=followers))](https://github.com/DawoodRiyazi)](https://img.shields.io/github/followers/DawoodRiyazi?style=for-the-badge&color=00d4ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/DawoodRiyazi](https://img.shields.io/github/followers/DawoodRiyazi?style=for-the-badge&color=00d4ff&labelColor=0d0d0d&label=FOLLOWERS)](https://github.com/DawoodRiyazi))
+[![GitHub followers]([[[https://img.shields.io/github/followers/DawoodRiyazi?style=for-the-badge&color=00d4ff&labelColor=0d0d0d&label=FOLLOWERS](https://github.com/dawoodriy-hub?tab=followers]])
 
 </div>
 
