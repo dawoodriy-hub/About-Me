@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ══════════════ HEADER BANNER ══════════════ -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Dawood%20Riyazi&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlign=50)](https://github.com/dawoodriy-hub)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=Dawood%20Riyazi&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=30)](https://github.com/dawoodriy-hub)
 
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Dawood+👋;Python+Developer+🐍;Game+Dev+Enthusiast+🎮;Always+Learning+📚)](https://github.com/dawoodriy-hub)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Dawood+👋;Python+Developer+🐍;Game+Dev+Enthusiast+🎮;Desktop+App+Creator+💻)](https://github.com/dawoodriy-hub)
 
 <br/>
 
